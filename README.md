@@ -29,7 +29,8 @@ It turns out that students feel significantly more comfortable with languages, t
 I decided to analyze the required subjects that each student must take: foreign language, mathematics and Polish.
 Scores on basic level tend to be better. 
 
-![image](https://github.com/werelia/matura/assets/69116952/18ae9a3b-cae3-4e18-9404-f721d93e5a3e)
+![image](https://github.com/werelia/matura/assets/69116952/d64df950-a5fb-4b1e-88b1-da951be0f584)
+
 
 
 Exploring further it looks like men scored better in English and slightly better on Mathematics. However women scored much better in Polish exam with about 5% difference.
