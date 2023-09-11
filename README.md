@@ -13,13 +13,28 @@ After that I have translated the columns and values using lambda functions.
 
 # Data Analysis
 
-The average results have not changed much over the years. In fact it was stable, with slight downtrend. It is worth to notice that the gap between Advanced and Basic level increased. In 2015 it was about ~13%, however in 2021 it increased to about 20%!
+The average results have not changed much over the years. In fact it was stable, with slight downtrend. It is worth to notice that the gap between Advanced and Basic level increased. 
+In 2015 it was about ~13%, however in 2021 it increased to about 20%.
+
+
 ![image](https://github.com/werelia/matura/assets/69116952/a1ed8ab0-85b0-4c29-8231-f7b1f9e39787)
 
 
 I grouped subjects into 'Language', 'Humanistic' and 'Science' categories. I have taken into account only advanced level as there was not many Science subjects on basic level.
 It turns out that students feel significantly more comfortable with languages, than humanistic or science subjects.
 
+![image](https://github.com/werelia/matura/assets/69116952/dc404e8e-b1b0-44d6-b065-a3dd6b8a7e98)
+
+
 I decided to analyze the required subjects that each student must take: foreign language, mathematics and Polish.
-Scores on basic level tend to be better. Exploring further the graph on the left - it looks like men scored better in English and slightly better on Mathematics. However women scored much better in Polish exam with about 5% difference.
+Scores on basic level tend to be better. 
+
+![image](https://github.com/werelia/matura/assets/69116952/18ae9a3b-cae3-4e18-9404-f721d93e5a3e)
+
+
+Exploring further it looks like men scored better in English and slightly better on Mathematics. However women scored much better in Polish exam with about 5% difference.
 On advanced level men kept their position with English, but got outscored in mathematics and Polish.
+
+![image](https://github.com/werelia/matura/assets/69116952/a1451530-2610-498e-8c30-9aee093bd2f9)
+
+![image](https://github.com/werelia/matura/assets/69116952/035c475c-5145-4abf-be26-7f0ae33555fb)
