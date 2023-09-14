@@ -39,3 +39,5 @@ On advanced level men kept their position with English, but got outscored in mat
 ![image](https://github.com/werelia/matura/assets/69116952/a1451530-2610-498e-8c30-9aee093bd2f9)
 
 ![image](https://github.com/werelia/matura/assets/69116952/035c475c-5145-4abf-be26-7f0ae33555fb)
+average_score_by_category_advanced.png
+![Alt text](/average_score_by_category_advanced.png?raw=true "")
