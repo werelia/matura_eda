@@ -6,12 +6,12 @@ This exam is not mandatory, although Polish pupils are required to pass this exa
 
 To obtain information and visualize the data I cleaned, translated and analyzed datasets from Polish Statistic's Office about 'Matura' results over years.
 
-# Data Cleaning and Preparation
+## Data Cleaning and Preparation
 
 I have deleted the columns that were not useful. Also, casted the numerical values to float as in dataset it appeared as string.
 After that I have translated the columns and values using lambda functions.
 
-# Data Analysis
+## Data Analysis
 
 The average results have not changed much over the years. In fact it was stable, with slight downtrend. It is worth to notice that the gap between Advanced and Basic level increased. 
 In 2015 it was about ~13%, however in 2022 it increased to about 20%.
@@ -35,6 +35,8 @@ Exploring further it looks like men scored better in English and slightly better
 On advanced level men kept their position with English, but got outscored in mathematics and Polish.
 
 
+## Power BI Visualization
 
+The visualization made in PowerBI can be found in the file "matura_PowerBi.mp4".
 
 
